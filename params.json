@@ -1,0 +1,1 @@
+{"participant_id": "test", "condition": 0, "model": 1, "state": 1, "trials_fouriar": 0, "trials_knobby": 0, "max_moves": 10, "moves_fouriar": 10, "moves_knobby": 5, "fouriar_complete": false, "knobby_complete": false, "games_count": 2, "games_rule": [1], "games_results": [1], "win_rate_fouriar": 0, "win_rate_knobby": 0}
